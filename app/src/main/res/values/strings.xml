@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sağlık Uygulaması</string>
+    <string name="title_activity_login_user">KullanıcıGirişi</string>
+</resources>
